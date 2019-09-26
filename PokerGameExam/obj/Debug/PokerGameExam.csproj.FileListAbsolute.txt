@@ -1,0 +1,10 @@
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\bin\Debug\PokerGameExam.exe.config
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\bin\Debug\PokerGameExam.exe
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\bin\Debug\PokerGameExam.pdb
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\obj\Debug\PokerGameExam.csprojAssemblyReference.cache
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\obj\Debug\PokerGameExam.csproj.CoreCompileInputs.cache
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\obj\Debug\PokerGameExam.exe
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\obj\Debug\PokerGameExam.pdb
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\obj\Debug\PokerGameExam.csproj.CopyComplete
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\bin\Debug\MyLibrary.dll
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\bin\Debug\MyLibrary.pdb
