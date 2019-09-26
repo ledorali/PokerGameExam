@@ -14,6 +14,16 @@ namespace PokerGameExam
        
         static void Main(string[] args)
         {
+
+
+
+
+
+
+
+
+
+
             List<string> Name = new List<string>();
 
 
@@ -34,9 +44,9 @@ namespace PokerGameExam
 
                 PokerGameFirst.AddPlayer(player);
                 Console.WriteLine("");
-                Console.WriteLine("Card No {0} for", Name[i]);
+                Console.WriteLine("Card No for {0}", Name[i]);
                 Console.WriteLine("------------------------------------------------------------");
-                Console.WriteLine("Ranktype: Please Enter Rank Type for  {0} ", Name[i]);
+                Console.WriteLine("Ranktype: Please Enter Rank Type for {0} ", Name[i]);
                 Console.WriteLine("For Rank Type Please Choose One from the Following List");
                 Console.WriteLine("Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten");
                 Console.WriteLine("Jack, Queen, King, Ace, None");
