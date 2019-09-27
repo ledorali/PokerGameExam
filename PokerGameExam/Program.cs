@@ -18,8 +18,8 @@ namespace PokerGameExam
 
             Console.WriteLine("----------------------------------------------------------------");
             Console.WriteLine("This is Poker Game Simulator Created Using Windows Console App ");
-            Console.WriteLine("If you want to try, kindly type Yes or if you want to see generated");
-            Console.WriteLine("game, kindly type no, Thank You and Enjoy");
+            Console.WriteLine("If you want to try, kindly type YES or if you want to see generated");
+            Console.WriteLine("game, kindly type NO, Thank You and Enjoy");
             Console.WriteLine("----------------------------------------------------------------");
             Console.WriteLine();
             string willPlay = Console.ReadLine();
