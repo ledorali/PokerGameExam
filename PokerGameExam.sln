@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerGameExam", "PokerGameE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{175EA2E2-172E-4D50-9960-AAFBBAA27E44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerGameExamTests", "PokerGameExamTests\PokerGameExamTests.csproj", "{24F5B9CA-9207-4834-873F-7E88EE0C8F3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerGameTest", "PokerGameTest\PokerGameTest.csproj", "{C3E3E63E-5BD6-466D-A342-2B70CEB94FE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{175EA2E2-172E-4D50-9960-AAFBBAA27E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{175EA2E2-172E-4D50-9960-AAFBBAA27E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{175EA2E2-172E-4D50-9960-AAFBBAA27E44}.Release|Any CPU.Build.0 = Release|Any CPU
-		{24F5B9CA-9207-4834-873F-7E88EE0C8F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24F5B9CA-9207-4834-873F-7E88EE0C8F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24F5B9CA-9207-4834-873F-7E88EE0C8F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{24F5B9CA-9207-4834-873F-7E88EE0C8F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E3E63E-5BD6-466D-A342-2B70CEB94FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E3E63E-5BD6-466D-A342-2B70CEB94FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E3E63E-5BD6-466D-A342-2B70CEB94FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E3E63E-5BD6-466D-A342-2B70CEB94FE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

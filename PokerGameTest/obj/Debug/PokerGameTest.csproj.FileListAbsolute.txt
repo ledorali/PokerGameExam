@@ -1,0 +1,13 @@
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\obj\Debug\PokerGameTest.csprojAssemblyReference.cache
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\obj\Debug\PokerGameTest.csproj.CoreCompileInputs.cache
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\bin\Debug\PokerGameTest.dll
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\bin\Debug\PokerGameTest.pdb
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\bin\Debug\MyLibrary.dll
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\bin\Debug\MyLibrary.pdb
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\obj\Debug\PokerGameTest.csproj.CopyComplete
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\obj\Debug\PokerGameTest.dll
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameTest\obj\Debug\PokerGameTest.pdb

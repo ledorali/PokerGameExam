@@ -4,3 +4,6 @@ C:\Users\Rodel\source\repos\PokerGameExam\MyLibrary\bin\Debug\MyLibrary.dll
 C:\Users\Rodel\source\repos\PokerGameExam\MyLibrary\bin\Debug\MyLibrary.pdb
 C:\Users\Rodel\source\repos\PokerGameExam\MyLibrary\obj\Debug\MyLibrary.dll
 C:\Users\Rodel\source\repos\PokerGameExam\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\Rodel\source\repos\PokerGameExam\MyLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rodel\source\repos\PokerGameExam\MyLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rodel\source\repos\PokerGameExam\MyLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

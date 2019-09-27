@@ -8,3 +8,6 @@ C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\obj\Debug\PokerGameExam.
 C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\obj\Debug\PokerGameExam.csproj.CopyComplete
 C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\bin\Debug\MyLibrary.dll
 C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\bin\Debug\MyLibrary.pdb
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rodel\source\repos\PokerGameExam\PokerGameExam\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
