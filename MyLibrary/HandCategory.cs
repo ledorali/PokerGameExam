@@ -8,9 +8,14 @@ namespace MyLibrary
 {
     public enum HandCategory
     {
+        RoyalFlush,
+        FourOfAKind,
+        StraightFlush,
         FullHouse,
         Flush,
+        Straight,
         ThreeOfaKind,
+        TwoPair,
         OnePair,
         HighCard
     }
