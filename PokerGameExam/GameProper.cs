@@ -31,12 +31,13 @@ namespace PokerGameExam
                 PokerGameFirst.AddPlayer(player);
                 Console.WriteLine("");
                 Console.WriteLine("Card No for {0}", Name[i]);
-                Console.WriteLine("------------------------------------------------------------");
-                Console.WriteLine("Ranktype: Please Enter Rank Type for {0} ", Name[i]);
-                Console.WriteLine("For Rank Type Please Choose One from the Following List");
-                Console.WriteLine("Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten");
-                Console.WriteLine("Jack, Queen, King, Ace, None");
-                Console.WriteLine("------------------------------------------------------------");
+                Console.WriteLine("----------------------------------------------------------------------");
+                Console.WriteLine("Ranktype: Please Enter Rank Type for: {0} ", Name[i]);
+                Console.WriteLine("For Rank Type Please Choose Five from the Following List");
+                Console.WriteLine("List:  Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten");
+                Console.WriteLine("List:  Jack, Queen, King, Ace, None");
+                Console.WriteLine("EXAMPLE TO TYPE IN THE CONSOLE: *** Jack, Queen, King, Ace, Five *** ");
+                Console.WriteLine("-----------------------------------------------------------------------");
 
 
                 List<int> RankType = new List<int>();
@@ -50,11 +51,12 @@ namespace PokerGameExam
                     UtilityClass.ParseRank(RankType, testValueRank, k);
 
                 Console.WriteLine("");
-                Console.WriteLine("------------------------------------------------------------");
-                Console.WriteLine("SuitType: Please Enter Suit Type for: {0}", Name[i]);
-                Console.WriteLine("For Suit Type Please Choose One From the Following List");
-                Console.WriteLine("Diamond, Heart, Spades, Clubs, None");
-                Console.WriteLine("------------------------------------------------------------");
+                Console.WriteLine("-------------------------------------------------------------------------------");
+                Console.WriteLine("Suit Card: Please Enter Suit Card for: {0}", Name[i]);
+                Console.WriteLine("For Suit Card Please Choose FIVE From the Following List");
+                Console.WriteLine("List:  Diamond, Heart, Spades, Clubs, None");
+                Console.WriteLine("EXAMPLE TO TYPE IN THE CONSOLE: **** Diamond, Spades, Heart, Heart, Clubs *** ");
+                Console.WriteLine("---------------------------------------------------------------------------------");
                 Console.WriteLine("");
                 string valueForType = Console.ReadLine();
 
