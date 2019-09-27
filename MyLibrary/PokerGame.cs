@@ -67,7 +67,15 @@ namespace MyLibrary
             }
 
             var sortPokerHandScore = from pokerHand in _pokerHands
-                                     orderby  pokerHand.IsFullHouse descending, pokerHand.IsFlush descending, pokerHand.IsThreeOfAKind descending, pokerHand.IsPair descending, pokerHand.Score descending, Convert.ChangeType(pokerHand.DominantSuit, pokerHand.DominantSuit.GetTypeCode()) ascending
+                                     orderby pokerHand.IsRoyalFlush descending, 
+                                     pokerHand.IsFourOfAKind descending, 
+                                     pokerHand.IsStraightflush descending, 
+                                     pokerHand.IsFullHouse descending,
+                                     pokerHand.IsFlush descending,
+                                     pokerHand.IsThreeOfAKind descending,
+                                     pokerHand.IsPair descending,
+                                     pokerHand.Score descending,
+                                     Convert.ChangeType(pokerHand.DominantSuit, pokerHand.DominantSuit.GetTypeCode()) ascending
                                      select pokerHand;
 
             this.Winner = sortPokerHandScore.DefaultIfEmpty().First();
